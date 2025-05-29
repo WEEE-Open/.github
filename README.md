@@ -1,1 +1,1 @@
-# [WEEE Open](logo.png)
+# ![WEEE Open](logo.png)
